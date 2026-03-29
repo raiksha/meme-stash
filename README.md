@@ -7,18 +7,18 @@ Repositorio personal de memes en `.png` o `.gif` para acceder a ellos por URL di
 Cada imagen subida a este repo tiene una URL pública con este formato:
 
 ```
-https://raw.githubusercontent.com/{TBD}.png
+https://raw.githubusercontent.com/raiksha/meme-stash/refs/heads/main/memes/{nombre-del-meme}.png
 ```
 ```
-https://raw.githubusercontent.com/{TBD}.gif
+https://raw.githubusercontent.com/raiksha/meme-stash/refs/heads/main/memes/{nombre-del-meme}.gif
 ```
 
 **Ejemplo:**
 ```
-https://raw.githubusercontent.com/{TBD}.png
+https://raw.githubusercontent.com/raiksha/meme-stash/refs/heads/main/memes/cat-silly.png
 ```
 ```
-https://raw.githubusercontent.com/{TBD}.gif
+https://raw.githubusercontent.com/raiksha/meme-stash/refs/heads/main/memes/cat-computer-typing.gif
 ```
 
 ## Estructura
